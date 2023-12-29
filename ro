@@ -1,37 +1,38 @@
 #EXTM3U
 
+央视, #genre#
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="/CCTV/CCTV1.png" group-title="央视", CCTV-1 综合
-http://221.2.146.228:8888/newlive/live/hls/2/live.m3u8
+http://hacbn.ks-cdn.henancatv.com/gitv_escape/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="/CCTV/CCTV2.png" group-title="央视", CCTV-2 财经
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+http://lncbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV3" tvg-logo="/CCTV/CCTV3.png" group-title="央视", CCTV-3 综艺
-http://221.2.146.228:8888/newlive/live/hls/4/live.m3u8
+http://jscbn.hw-cdn.gitv.tv/gitv_escape/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV4" tvg-logo="/CCTV/CCTV4.png" group-title="央视", CCTV-4 中文国际
-http://221.2.146.228:8888/newlive/live/hls/5/live.m3u8
+http://hicbn.ali-cdn.yst.963999.com/gitv_escape/CCTV-4/CCTV-4.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV5" tvg-logo="/CCTV/CCTV5.png" group-title="央视", CCTV-5 体育
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV5+" tvg-logo="/CCTV/CCTV5+.png" group-title="央视", CCTV-5+ 体育赛事
-http://221.2.146.228:8888/newlive/live/hls/6/live.m3u8
+http://lncbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV6" tvg-logo="/CCTV/CCTV6.png" group-title="央视", CCTV-6 电影
-http://221.2.146.228:8888/newlive/live/hls/7/live.m3u8
+http://hicbn.ali-cdn.yst.963999.com/gitv_escape/G_CCTV-6-HQ/G_CCTV-6-HQ.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV7" tvg-logo="/CCTV/CCTV7.png" group-title="央视", CCTV-7 国防军事
-http://221.2.146.228:8888/newlive/live/hls/8/live.m3u8
+http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV8" tvg-logo="/CCTV/CCTV8.png" group-title="央视", CCTV-8 电视剧
-http://221.2.146.228:8888/newlive/live/hls/9/live.m3u8
+http://lncbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-8-HQ/G_CCTV-8-HQ.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV9" tvg-logo="/CCTV/CCTV9.png" group-title="央视", CCTV-9 纪录
-http://221.2.146.228:8888/newlive/live/hls/10/live.m3u8
+http://lncbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-9-HQ/G_CCTV-9-HQ.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV10" tvg-logo="/CCTV/CCTV10.png" group-title="央视", CCTV-10 科教
-http://221.2.146.228:8888/newlive/live/hls/11/live.m3u8
+http://jscbn.hw-cdn.gitv.tv/gitv_escape/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV11" tvg-logo="/CCTV/CCTV11.png" group-title="央视", CCTV-11 戏曲
-http://221.2.146.228:8888/newlive/live/hls/12/live.m3u8
+http://ahcbn.ali-cdn.gitv.tv/gitv_escape/CCTV-11/CCTV-11.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV12" tvg-logo="/CCTV/CCTV12.png" group-title="央视", CCTV-12 社会与法
-http://221.2.146.228:8888/newlive/live/hls/13/live.m3u8
+http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-12-HQ/G_CCTV-12-HQ.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV13" tvg-logo="/CCTV/CCTV13.png" group-title="央视", CCTV-13 新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV14" tvg-logo="/CCTV/CCTV14.png" group-title="央视", CCTV-14 少儿
-http://221.2.146.228:8888/newlive/live/hls/15/live.m3u8
+http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-14-HQ/G_CCTV-14-HQ.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV15" tvg-logo="/CCTV/CCTV15.png" group-title="央视", CCTV-15 音乐
-http://221.2.146.228:8888/newlive/live/hls/16/live.m3u8
+http://jscbn.hw-cdn.gitv.tv/gitv_escape/G_CCTV-15/G_CCTV-15.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV16" tvg-logo="/CCTV/CCTV16.png" group-title="央视", CCTV-16 奥林匹克
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV17" tvg-logo="/CCTV/CCTV17.png" group-title="央视", CCTV-17 农业农村
@@ -41,13 +42,13 @@ http://219.145.93.74:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="1" tvg-name="CGTN英语" tvg-logo="/CCTV/CGTN英语.png" group-title="央视", CGTN英语
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="中国教育1台" tvg-logo="/CCTV/中国教育1台.png" group-title="央视", 中国教育1台
-
+http://jscbn.hw-cdn.gitv.tv/gitv_escape/G_CETV-1/G_CETV-1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="中国教育2台" tvg-logo="/CCTV/中国教育2台.png" group-title="央视", 中国教育2台
-http://zdwty.eatuo.com:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+http://lncbn.tx-cdn.gitv.tv/gitv_escape/G_CETV-2/G_CETV-2.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="中国教育3台" tvg-logo="/CCTV/中国教育3台.png" group-title="央视", 中国教育3台
-http://video.lzjtu.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/index.m3u8
+http://hicbn.ali-cdn.yst.963999.com/gitv_escape/G_CETV-3/G_CETV-3.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="中国教育3台" tvg-logo="/CCTV/中国教育4台.png" group-title="央视", 中国教育4台
-http://zdwty.eatuo.com:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+http://hicbn.ali-cdn.yst.963999.com/gitv_escape/G_CETV-4/G_CETV-4.m3u8
 
 
 卫视, #genre#
