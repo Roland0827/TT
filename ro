@@ -2,7 +2,7 @@
 
 央视, #genre#
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="/CCTV/CCTV1.png" group-title="央视", CCTV-1 综合
-http://182.46.8.161:8018/hls/1/index.m3u8
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="/CCTV/CCTV2.png" group-title="央视", CCTV-2 财经
 http://183.185.136.159:9999/tsfile/live/0002_1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV3" tvg-logo="/CCTV/CCTV3.png" group-title="央视", CCTV-3 综艺
@@ -28,7 +28,7 @@ http://113.110.72.132:8090/hls/123/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV12" tvg-logo="/CCTV/CCTV12.png" group-title="央视", CCTV-12 社会与法
 http://113.110.72.132:8090/hls/124/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV13" tvg-logo="/CCTV/CCTV13.png" group-title="央视", CCTV-13 新闻
-http://115.195.189.62:10000/rtp/233.50.201.246:5140
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1635962688-0-e013f973588e41599d7751a912170d78-fd33c55f8befe5c00fb32fee650348c0
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV14" tvg-logo="/CCTV/CCTV14.png" group-title="央视", CCTV-14 少儿
 http://113.110.72.132:8090/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV15" tvg-logo="/CCTV/CCTV15.png" group-title="央视", CCTV-15 音乐
