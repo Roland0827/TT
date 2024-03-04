@@ -4,35 +4,35 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="/CCTV/CCTV1.png" group-title="央视", CCTV-1 综合
 http://tvpull.dxhmt.cn/tv/11081-2.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="/CCTV/CCTV2.png" group-title="央视", CCTV-2 财经
-http://183.185.136.159:9999/tsfile/live/0002_1.m3u8
+http://cdchen198.cn:6060/udp/239.11.0.108:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV3" tvg-logo="/CCTV/CCTV3.png" group-title="央视", CCTV-3 综艺
-https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
+http://cdchen198.cn:6060/udp/239.11.0.101:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV4" tvg-logo="/CCTV/CCTV4.png" group-title="央视", CCTV-4 中文国际
-http://113.110.72.132:8090/hls/116/index.m3u8
+http://cdchen198.cn:6060/udp/239.11.0.109:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV5" tvg-logo="/CCTV/CCTV5.png" group-title="央视", CCTV-5 体育
 http://1.30.18.218:20080/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV5+" tvg-logo="/CCTV/CCTV5+.png" group-title="央视", CCTV-5+ 体育赛事
 http://113.110.72.132:8090/hls/10/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV6" tvg-logo="/CCTV/CCTV6.png" group-title="央视", CCTV-6 电影
-http://183.185.136.159:9999/tsfile/live/0006_1.m3u8
+http://cdchen198.cn:6060/udp/239.11.0.102:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV7" tvg-logo="/CCTV/CCTV7.png" group-title="央视", CCTV-7 国防军事
-http://113.110.72.132:8090/hls/119/index.m3u8
+http://cdchen198.cn:6060/udp/239.11.0.110:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV8" tvg-logo="/CCTV/CCTV8.png" group-title="央视", CCTV-8 电视剧
-http://113.110.72.132:8090/hls/120/index.m3u8
+http://cdchen198.cn:6060/udp/239.11.0.103:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV9" tvg-logo="/CCTV/CCTV9.png" group-title="央视", CCTV-9 纪录
-http://113.110.72.132:8090/hls/121/index.m3u8
+http://cdchen198.cn:6060/udp/239.11.0.111:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV10" tvg-logo="/CCTV/CCTV10.png" group-title="央视", CCTV-10 科教
-http://113.110.72.132:8090/hls/122/index.m3u8
+http://cdchen198.cn:6060/udp/239.11.0.112:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV11" tvg-logo="/CCTV/CCTV11.png" group-title="央视", CCTV-11 戏曲
-http://113.110.72.132:8090/hls/123/index.m3u8
+http://cdchen198.cn:6060/udp/239.11.0.22:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV12" tvg-logo="/CCTV/CCTV12.png" group-title="央视", CCTV-12 社会与法
-http://113.110.72.132:8090/hls/124/index.m3u8
+http://cdchen198.cn:6060/udp/239.11.0.113:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV13" tvg-logo="/CCTV/CCTV13.png" group-title="央视", CCTV-13 新闻
 rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV14" tvg-logo="/CCTV/CCTV14.png" group-title="央视", CCTV-14 少儿
-http://113.110.72.132:8090/hls/5/index.m3u8
+http://cdchen198.cn:6060/udp/239.11.0.114:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV15" tvg-logo="/CCTV/CCTV15.png" group-title="央视", CCTV-15 音乐
-http://jinjiang.chongqing.moetv.sn-m.xyz:8089/newlive/live/hls/16/live.m3u8
+http://cdchen198.cn:6060/udp/239.11.0.26:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV16" tvg-logo="/CCTV/CCTV16.png" group-title="央视", CCTV-16 奥林匹克
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV17" tvg-logo="/CCTV/CCTV17.png" group-title="央视", CCTV-17 农业农村
@@ -207,9 +207,9 @@ https://xmplay.fstv.com.cn/live/xingmu202111111637516YDa.m3u8?txSecret=d36e4aee9
 
 香港, #genre#
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="/HK/凤凰资讯.png" group-title="香港", 凤凰资讯
-http://cdn.swes.cn:8089/udp/239.93.0.118:2191
+http://php.17186.eu.org/phtv/fhzx.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="/HK/凤凰中文.png" group-title="香港", 凤凰中文
-http://cdn.swes.cn:8089/udp/239.93.1.9:2192
+http://php.17186.eu.org/phtv/fhzw.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="/HK/凤凰香港.png" group-title="香港", 凤凰香港
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
 #EXTINF:-1 tvg-id="1" tvg-name="TVB明珠台" tvg-logo="/HK/明珠台.png" group-title="香港", 明珠台
