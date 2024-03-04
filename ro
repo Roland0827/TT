@@ -213,9 +213,9 @@ http://php.17186.eu.org/phtv/fhzw.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="/HK/凤凰香港.png" group-title="香港", 凤凰香港
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
 #EXTINF:-1 tvg-id="1" tvg-name="TVB明珠台" tvg-logo="/HK/明珠台.png" group-title="香港", 明珠台
-http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+http://bziyunshao.synology.me:8890/bysid/2
 #EXTINF:-1 tvg-id="1" tvg-name="TVB翡翠台" tvg-logo="/HK/翡翠台.png" group-title="香港", 翡翠台
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
+http://bziyunshao.synology.me:8889/bysid/1
 #EXTINF:-1 tvg-id="1" tvg-name="TVB星河台" tvg-logo="/HK/星河台.png" group-title="香港", 星河台
 http://198.16.100.90:8278/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
 #EXTINF:-1 tvg-id="1" tvg-name="星空卫视" tvg-logo="/HK/星空卫视.png" group-title="香港", 星空卫视
@@ -225,7 +225,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="TVB综合台" tvg-logo="/HK/TVB综合台.png" group-title="香港", TVB综合台
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153396
 #EXTINF:-1 tvg-id="1" tvg-name="TVB新闻台" tvg-logo="/HK/TVB新闻台.png" group-title="香港", TVB新闻台
-https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
+http://bziyunshao.synology.me:8890/bysid/83
 #EXTINF:-1 tvg-id="1" tvg-name="TVB娱乐台" tvg-logo="/HK/TVB娱乐台.png" group-title="香港", TVB娱乐台
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153395
 #EXTINF:-1 tvg-id="1" tvg-name="TVB直播台" tvg-logo="/HK/TVB直播台.png" group-title="香港", TVB直播台
