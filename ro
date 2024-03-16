@@ -52,7 +52,7 @@ http://hicbn.ali-cdn.yst.963999.com/gitv_escape/G_CETV-4/G_CETV-4.m3u8
 
 卫视, #genre#
 #EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="卫视", 浙江卫视
-http://61.182.33.218:8000/hls/24/index.m3u8
+http://php.jdshipin.com:8880/bst.php?id=zjwshd/4000000
 #EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视", 东方卫视
 http://220.163.178.144:8888/tsfile/live/0135_2.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视", 湖南卫视
@@ -84,9 +84,9 @@ http://n1.jimgo.win:4022/udp/239.93.0.132:5140
 #EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="湖北卫视.png" group-title="卫视", 湖北卫视
 http://n1.jimgo.win:4022/udp/239.93.0.250:5140
 #EXTINF:-1 tvg-id="1" tvg-name="海南卫视" tvg-logo="海南卫视.png" group-title="卫视", 海南卫视
-http://n1.jimgo.win:4022/udp/239.93.0.80:5140
+http://php.jdshipin.com:8880/bst.php?id=hainanwshd8m/8000000
 #EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="江西卫视.png" group-title="卫视", 江西卫视
-http://n1.jimgo.win:4022//udp/239.93.0.134:5140
+http://php.jdshipin.com:8880/bst.php?id=jxwshd/4000000
 #EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="卫视", 东南卫视
 http://61.182.33.218:8000/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="重庆卫视.png" group-title="卫视", 重庆卫视
@@ -108,9 +108,9 @@ http://n1.jimgo.win:4022/udp/239.93.42.46:5140
 #EXTINF:-1 tvg-id="1" tvg-name="甘肃卫视" tvg-logo="甘肃卫视.png" group-title="卫视", 甘肃卫视
 http://n1.jimgo.win:4022/udp/239.93.0.81:5140
 #EXTINF:-1 tvg-id="1" tvg-name="西藏卫视" tvg-logo="西藏卫视.png" group-title="卫视", 西藏卫视
-http://n1.jimgo.win:4022/udp/239.93.0.175:5140
+http://php.jdshipin.com:8880/bst.php?id=xzws/1300000
 #EXTINF:-1 tvg-id="1" tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视.png" group-title="卫视", 内蒙古卫视
-http://n1.jimgo.win:4022/udp/239.93.0.8:5140
+http://php.jdshipin.com:8880/bst.php?id=nmgws/1300000
 #EXTINF:-1 tvg-id="1" tvg-name="大湾区卫视" tvg-logo="大湾区卫视.png" group-title="卫视", 大湾区卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="三沙卫视" tvg-logo="三沙卫视.png" group-title="卫视", 三沙卫视
@@ -118,13 +118,13 @@ https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="新疆卫视" tvg-logo="新疆卫视.png" group-title="卫视", 新疆卫视
 http://222.189.51.62:8888/newlive/live/hls/38/live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="云南卫视.png" group-title="卫视", 云南卫视
-http://n1.jimgo.win:4022/udp/239.93.1.174:5140
+http://php.jdshipin.com:8880/bst.php?id=ynwshd8m/8000000
 #EXTINF:-1 tvg-id="1" tvg-name="兵团卫视" tvg-logo="兵团卫视.png" group-title="卫视", 兵团卫视
-http://n1.jimgo.win:4022/udp/239.93.42.43:5140
+http://php.jdshipin.com:8880/bst.php?id=btws/1300000
 #EXTINF:-1 tvg-id="1" tvg-name="厦门卫视" tvg-logo="厦门卫视.png" group-title="卫视", 厦门卫视
 http://220.163.178.144:8888/tsfile/live/0115_1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="海峡卫视" tvg-logo="海峡卫视.png" group-title="卫视", 海峡卫视
-
+http://php.jdshipin.com:8880/bst.php?id=hxws
 #EXTINF:-1 tvg-id="1" tvg-name="延边卫视" tvg-logo="延边卫视.png" group-title="卫视", 延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="农林卫视" tvg-logo="农林卫视.png" group-title="卫视", 农林卫视
@@ -207,15 +207,15 @@ https://xmplay.fstv.com.cn/live/xingmu202111111637516YDa.m3u8?txSecret=d36e4aee9
 
 香港, #genre#
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="/HK/凤凰资讯.png" group-title="香港", 凤凰资讯
-http://php.17186.eu.org/phtv/fhzx.m3u8
+http://171.88.35.94:4000/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="/HK/凤凰中文.png" group-title="香港", 凤凰中文
-http://php.17186.eu.org/phtv/fhzw.m3u8
+http://171.88.35.94:4000/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="/HK/凤凰香港.png" group-title="香港", 凤凰香港
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
 #EXTINF:-1 tvg-id="1" tvg-name="TVB明珠台" tvg-logo="/HK/明珠台.png" group-title="香港", 明珠台
-http://bziyunshao.synology.me:8890/bysid/2
+http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
 #EXTINF:-1 tvg-id="1" tvg-name="TVB翡翠台" tvg-logo="/HK/翡翠台.png" group-title="香港", 翡翠台
-http://bziyunshao.synology.me:8889/bysid/1
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
 #EXTINF:-1 tvg-id="1" tvg-name="TVB星河台" tvg-logo="/HK/星河台.png" group-title="香港", 星河台
 http://198.16.100.90:8278/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
 #EXTINF:-1 tvg-id="1" tvg-name="星空卫视" tvg-logo="/HK/星空卫视.png" group-title="香港", 星空卫视
@@ -367,7 +367,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-id="6" tvg-logo="NBC TODAY.png" group-title="美国", NBC今日新闻
 https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master_5.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="CNBC.png" group-title="美国", CNBC
-http://23.237.98.42:8080/USA_CNBC/index.m3u8
+http://stream.flynetwifi.com:1935/live/mobile-098/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="CNN REPLAY.png" group-title="美国", CNN专题
 https://doq6y2m748j16.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="BLOOMBERG.png" group-title="美国", 彭博社
