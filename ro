@@ -1,5 +1,4 @@
 #EXTM3U
-
 央视, #genre#
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="/CCTV/CCTV1.png" group-title="央视", CCTV-1 综合
 http://tvpull.dxhmt.cn/tv/11081-2.m3u8
@@ -42,91 +41,91 @@ http://cdchen198.cn:6060/udp/239.11.0.107:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CGTN英语" tvg-logo="/CCTV/CGTN英语.png" group-title="央视", CGTN英语
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="中国教育1台" tvg-logo="/CCTV/中国教育1台.png" group-title="央视", 中国教育1台
-http://jscbn.hw-cdn.gitv.tv/gitv_escape/G_CETV-1/G_CETV-1.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="中国教育2台" tvg-logo="/CCTV/中国教育2台.png" group-title="央视", 中国教育2台
-http://lncbn.tx-cdn.gitv.tv/gitv_escape/G_CETV-2/G_CETV-2.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="中国教育3台" tvg-logo="/CCTV/中国教育3台.png" group-title="央视", 中国教育3台
-http://hicbn.ali-cdn.yst.963999.com/gitv_escape/G_CETV-3/G_CETV-3.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="中国教育3台" tvg-logo="/CCTV/中国教育4台.png" group-title="央视", 中国教育4台
-http://hicbn.ali-cdn.yst.963999.com/gitv_escape/G_CETV-4/G_CETV-4.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 卫视, #genre#
 #EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="卫视", 浙江卫视
-http://php.jdshipin.com:8880/bst.php?id=zjwshd/4000000
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视", 东方卫视
-http://220.163.178.144:8888/tsfile/live/0135_2.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视", 湖南卫视
-http://n1.jimgo.win:4022/udp/239.93.0.88:5140
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="卫视", 北京卫视
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="卫视", 江苏卫视
-http://n1.jimgo.win:4022/udp/239.93.0.89:5140
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="卫视", 广东卫视
-http://n1.jimgo.win:4022/udp/239.93.0.181:5140
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="安徽卫视.png" group-title="卫视", 安徽卫视
-http://n1.jimgo.win:4022/udp/239.93.1.106:5140
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="天津卫视" tvg-logo="天津卫视.png" group-title="卫视", 天津卫视
-http://n1.jimgo.win:4022/udp/239.93.0.167:5140
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="吉林卫视" tvg-logo="吉林卫视.png" group-title="卫视", 吉林卫视
-http://n1.jimgo.win:4022/udp/239.93.0.248:5140
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png" group-title="卫视", 辽宁卫视
-http://n1.jimgo.win:4022/udp/239.93.1.108:5140
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="黑龙江卫视.png" group-title="卫视", 黑龙江卫视
-http://n1.jimgo.win:4022/udp/239.93.0.183:5140
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="山东卫视.png" group-title="卫视", 山东卫视
 http://61.182.33.218:8000/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="山西卫视.png" group-title="卫视", 山西卫视
 http://61.182.33.218:8000/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="卫视", 河南卫视
-http://n1.jimgo.win:4022/udp/239.93.42.45:5140
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="河北卫视.png" group-title="卫视", 河北卫视
-http://n1.jimgo.win:4022/udp/239.93.0.132:5140
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="湖北卫视.png" group-title="卫视", 湖北卫视
-http://n1.jimgo.win:4022/udp/239.93.0.250:5140
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="海南卫视" tvg-logo="海南卫视.png" group-title="卫视", 海南卫视
-http://php.jdshipin.com:8880/bst.php?id=hainanwshd8m/8000000
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="江西卫视.png" group-title="卫视", 江西卫视
-http://php.jdshipin.com:8880/bst.php?id=jxwshd/4000000
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="卫视", 东南卫视
 http://61.182.33.218:8000/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="重庆卫视.png" group-title="卫视", 重庆卫视
-http://n1.jimgo.win:4022/udp/239.93.1.107:5140
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="卫视", 深圳卫视
 http://61.182.33.218:8000/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="四川卫视.png" group-title="卫视", 四川卫视
-http://n1.jimgo.win:4022/udp/239.93.0.20:1235
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="宁夏卫视" tvg-logo="宁夏卫视.png" group-title="卫视", 宁夏卫视
-http://222.189.51.62:8888/newlive/live/hls/40/live.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="青海卫视" tvg-logo="青海卫视.png" group-title="卫视", 青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="陕西卫视" tvg-logo="陕西卫视.png" group-title="卫视", 陕西卫视
-http://n1.jimgo.win:4022/udp/239.93.0.176:5140
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="贵州卫视" tvg-logo="贵州卫视.png" group-title="卫视", 贵州卫视
-http://n1.jimgo.win:4022/udp/239.93.0.131:5140
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="广西卫视" tvg-logo="广西卫视.png" group-title="卫视", 广西卫视
-http://n1.jimgo.win:4022/udp/239.93.42.46:5140
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="甘肃卫视" tvg-logo="甘肃卫视.png" group-title="卫视", 甘肃卫视
-http://n1.jimgo.win:4022/udp/239.93.0.81:5140
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="西藏卫视" tvg-logo="西藏卫视.png" group-title="卫视", 西藏卫视
-http://php.jdshipin.com:8880/bst.php?id=xzws/1300000
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视.png" group-title="卫视", 内蒙古卫视
-http://php.jdshipin.com:8880/bst.php?id=nmgws/1300000
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="大湾区卫视" tvg-logo="大湾区卫视.png" group-title="卫视", 大湾区卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="三沙卫视" tvg-logo="三沙卫视.png" group-title="卫视", 三沙卫视
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="新疆卫视" tvg-logo="新疆卫视.png" group-title="卫视", 新疆卫视
-http://222.189.51.62:8888/newlive/live/hls/38/live.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="云南卫视.png" group-title="卫视", 云南卫视
-http://php.jdshipin.com:8880/bst.php?id=ynwshd8m/8000000
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="兵团卫视" tvg-logo="兵团卫视.png" group-title="卫视", 兵团卫视
-http://php.jdshipin.com:8880/bst.php?id=btws/1300000
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="厦门卫视" tvg-logo="厦门卫视.png" group-title="卫视", 厦门卫视
 http://220.163.178.144:8888/tsfile/live/0115_1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="海峡卫视" tvg-logo="海峡卫视.png" group-title="卫视", 海峡卫视
 http://php.jdshipin.com:8880/bst.php?id=hxws
 #EXTINF:-1 tvg-id="1" tvg-name="延边卫视" tvg-logo="延边卫视.png" group-title="卫视", 延边卫视
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="农林卫视" tvg-logo="农林卫视.png" group-title="卫视", 农林卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 
@@ -135,23 +134,23 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/inde
 #EXTINF:-1 tvg-id="6" tvg-logo="/LOCAL/北京新闻.png" group-title="地方", 北京新闻
 http://live.funhillrm.com/5/sd/live.m3u8?zbeid
 #EXTINF:-1 tvg-id="6" tvg-logo="/LOCAL/北京财经.png" group-title="地方", 北京财经
-http://123.112.210.212:4022/rtp/239.3.1.229:8000
+http://218.241.192.50:8808/udp/239.3.1.116:8000
 #EXTINF:-1 tvg-id="6" tvg-logo="/LOCAL/北京生活.png" group-title="地方", 北京生活
-http://123.112.210.212:4022/rtp/239.3.1.117:8000
+http://218.241.192.50:8808/udp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="6" tvg-logo="/LOCAL/北京文艺.png" group-title="地方", 北京文艺
-http://123.112.210.212:4022/rtp/239.3.1.242:8000
+http://218.241.192.50:8808/udp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="6" tvg-logo="/LOCAL/北京青年.png" group-title="地方", 北京青年
-http://123.112.210.212:4022/rtp/239.3.1.232:8000
+
 #EXTINF:-1 tvg-id="6" tvg-logo="/LOCAL/北京纪实科教.png" group-title="地方", 北京纪实科教
-http://61.182.33.218:8000/hls/38/index.m3u8
+http://218.241.192.50:8808/udp/239.3.1.115:8000
 #EXTINF:-1 tvg-id="6" tvg-logo="/LOCAL/北京影视.png" group-title="地方", 北京影视
-http://123.112.210.212:4022/rtp/239.3.1.158:8000
+http://218.241.192.50:8808/udp/239.3.1.158:8000
 #EXTINF:-1 tvg-id="6" tvg-logo="/LOCAL/北京体育休闲.png" group-title="地方", 北京体育休闲
-http://123.112.210.212:4022/rtp/239.3.1.243:8000
+http://218.241.192.50:8808/udp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="6" tvg-logo="/LOCAL/北京卡酷少儿.png" group-title="地方", 北京卡酷少儿
-http://49.235.110.121:9090/daili/bjtv.php?id=kkse
+http://218.241.192.50:8808/udp/239.3.1.189:8000
 #EXTINF:-1 tvg-id="6" tvg-logo="/LOCAL/北京国际.png" group-title="地方", 北京国际
-http://123.112.210.212:4022/rtp/239.3.1.235:8000
+http://218.241.192.50:8808/udp/239.3.1.235:8000
 
 #EXTINF:-1 tvg-id="6" tvg-logo="上海新闻.png" group-title="地方", 上海新闻综合
 http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=
@@ -211,9 +210,9 @@ https://xmplay.fstv.com.cn/live/xingmu202111111637516YDa.m3u8?txSecret=d36e4aee9
 
 香港, #genre#
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="/HK/凤凰资讯.png" group-title="香港", 凤凰资讯
-http://118.113.159.249:4022/udp/239.93.1.4:2191
+http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="/HK/凤凰中文.png" group-title="香港", 凤凰中文
-http://118.113.159.249:4022/udp/239.93.1.9:2192
+http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="/HK/凤凰香港.png" group-title="香港", 凤凰香港
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
 #EXTINF:-1 tvg-id="1" tvg-name="TVB明珠台" tvg-logo="/HK/明珠台.png" group-title="香港", 明珠台
@@ -407,81 +406,85 @@ https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="NHK WORLD.png" group-title="日本", NHK英语频道
 http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="NHK G.png" group-title="日本", NHK综合
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="NHK E.png" group-title="日本", NHK教育
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="NHK BSP.png" group-title="日本", NHK卫视综合
-http://203.162.235.41:25104/
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="NHK BS1.png" group-title="日本", NHK卫视1台
-http://203.162.235.41:20099/
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="NTV.png" group-title="日本", 日本电视台
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="BS NTV.png" group-title="日本", 日本卫视
-https://epg.pw/stream/5ae2f688afca0dfe26ae516392300bfb3e857f7e9f6b4db0c05b3ed34d1aebf2.ctv
+http：//cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="FUJI TV.png" group-title="日本", 富士电视台
-https://epg.pw/stream/081cd3e784964f8856113e66e3e6ed8b36345f40acfdf9b113d7cb51609fcb20.ctv
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="BS FUJI.png" group-title="日本", 富士卫视
-https://epg.pw/stream/77b3b1459ffad670e3ca8da2314788e4042392db2fc79afaa6e086c031398037.ctv
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="FUJI TV.png" group-title="日本", 富士1台
-https://tiemnhazunn.click/japantv/?id=146
+
 #EXTINF:-1 tvg-id="6" tvg-logo="FUJI TV.png" group-title="日本", 富士2台
-https://tiemnhazunn.click/japantv/?id=147
+
 #EXTINF:-1 tvg-id="6" tvg-logo="TV ASAHI.png" group-title="日本", 朝日电视台
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="TV ASAHI.png" group-title="日本", 朝日卫视
-https://epg.pw/stream/1088780a8bd0029e770ee9f5e0b6f9fe763ffd76acaac85c364f288ee3fc67fb.ctv
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="TV ASAHI.png" group-title="日本", 朝日1台
-https://tiemnhazunn.click/japantv/?id=158
+
 #EXTINF:-1 tvg-id="6" tvg-logo="TV ASAHI.png" group-title="日本", 朝日2台
-https://tiemnhazunn.click/japantv/?id=161
+
 #EXTINF:-1 tvg-id="6" tvg-logo="TV TOKYO.png" group-title="日本", 东京电视台
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="BS TOKYO.png" group-title="日本", 东京卫视
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-id="6" tvg-logo="TOKYO MX1.png" group-title="日本", 东京首都1台
-https://tiemnhazunn.click/japantv/?id=17
+
 #EXTINF:-1 tvg-id="6" tvg-logo="TOKYO MX2.png" group-title="日本", 东京首都2台
-https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="6" tvg-logo="TBS TOKYO.png" group-title="日本", 东京放送台
-https://tiemnhazunn.click/japantv/?id=5
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="6" tvg-logo="TBS TOKYO.png" group-title="日本", 东京放送卫视
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="TBS TOKYO.png" group-title="日本", 东京放送新闻
 https://tiemnhazunn.click/japantv/?id=233
 #EXTINF:-1 tvg-id="6" tvg-logo="TBS TOKYO.png" group-title="日本", 东京放送1台
 https://tiemnhazunn.click/japantv/?id=144
 #EXTINF:-1 tvg-id="6" tvg-logo="TBS TOKYO.png" group-title="日本", 东京放送2台
 https://tiemnhazunn.click/japantv/?id=145
+#EXTINF:-1 tvg-id="6" tvg-logo="ASAHI Broadcasting Corp.png" group-title="日本", 朝日放送台
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="TOKYO MX2.png" group-title="日本", 京都放送台
-https://tiemnhazunn.click/japantv/?id=116
+
 #EXTINF:-1 tvg-id="6" tvg-logo="TOKYO MX2.png" group-title="日本", 大阪电视台
-https://tiemnhazunn.click/japantv/?id=22
+
 #EXTINF:-1 tvg-id="6" tvg-logo="TV YOMIURI.png" group-title="日本", 读卖电视台
-https://tiemnhazunn.click/japantv/?id=21
+
 #EXTINF:-1 tvg-id="6" tvg-logo="TV YOMIURI.png" group-title="日本", 每日放送台
-https://tiemnhazunn.click/japantv/?id=18
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="TV KANSAI.png" group-title="日本", 关西电视台
-https://tiemnhazunn.click/japantv/?id=20
+
 #EXTINF:-1 tvg-id="6" tvg-logo="GUMMA BS.png" group-title="日本", 群马卫视
-https://movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="6" tvg-logo="GUMMA BS.png" group-title="日本", WOWOW影视台
-https://tiemnhazunn.click/japantv/?id=41
+
 #EXTINF:-1 tvg-id="6" tvg-logo="TV SHOCHIKU.png" group-title="日本", 松竹电视台
-https://tiemnhazunn.click/japantv/?id=125
+
 #EXTINF:-1 tvg-id="6" tvg-logo="TV YOSHIMOTO.png" group-title="日本", 吉本电视台
-https://tiemnhazunn.click/japantv/?id=108
+
 #EXTINF:-1 tvg-id="6" tvg-logo="WOWOW PRIME.png" group-title="日本", WOWOW译制片
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="WOWOW CINEMA.png" group-title="日本", WOWOW电影
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="TV GALAXY.png" group-title="日本", 银河频道
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-id="6" tvg-logo="TV NECO.png" group-title="日本", NECO频道
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-id="6" tvg-logo="TV NECO.png" group-title="日本", 家庭剧场
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="TV NECO.png" group-title="日本", 流行歌曲频道
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="6" tvg-logo="TV NECO.png" group-title="日本", 时代剧频道
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=0
 
 
 亚洲, #genre#
