@@ -1,6 +1,7 @@
 #EXTM3U
 央视, #genre#
-
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="/CCTV/CCTV1.png" group-title="央视", CCTV-1 综合
+http://tvpull.dxhmt.cn/tv/11081-2.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="/CCTV/CCTV2.png" group-title="央视", CCTV-2 财经
 http://cdchen198.cn:6060/udp/239.11.0.108:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV3" tvg-logo="/CCTV/CCTV3.png" group-title="央视", CCTV-3 综艺
@@ -45,7 +46,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="中国教育3台" tvg-logo="/CCTV/中国教育3台.png" group-title="央视", 中国教育3台
 
-#EXTINF:-1 tvg-id="1" tvg-name="中国教育3台" tvg-logo="/CCTV/中国教育4台.png" group-title="央视", 中国教育4台
+#EXTINF:-1 tvg-id="1" tvg-name="中国教育4台" tvg-logo="/CCTV/中国教育4台.png" group-title="央视", 中国教育4台
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 卫视, #genre#
