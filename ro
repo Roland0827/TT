@@ -323,13 +323,13 @@ rtmp://9sv2.mine.nu/sat/tv761
 #EXTINF:-1 tvg-id="2" tvg-logo="SKY NEWS.png" group-title="英国", SKY新闻
 http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
 #EXTINF:-1 tvg-id="2" tvg-logo="GB NEWS.png" group-title="英国", GB新闻
-http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=995306&extension=ts
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="BBC NEWS.png" group-title="英国", BBC 1
-http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+
 #EXTINF:-1 tvg-id="4" tvg-logo="BBC TWO.png" group-title="英国", BBC 2
-http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
+
 #EXTINF:-1 tvg-id="5" tvg-logo="BBC WORLD.png" group-title="英国", BBC世界新闻
-http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="BBC WORLD.png" group-title="英国", BBC议会频道
 https://epg.pw/stream/947822ddcfdffbde2147e294fcc34486c8aa7cca84a19144627dce1652f55c08.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="BBC WORLD.png" group-title="英国", BBC娱乐频道
@@ -356,7 +356,7 @@ https://rakuten-guardian-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 美国, #genre#
 #EXTINF:-1 tvg-id="6" tvg-logo="CNN.png" group-title="美国", CNN
-http://xbhuqn0e.megatv.fun/iptv/7MC5EAK4DNNV7V/6538/index.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="CNN.png" group-title="美国", CNN FAST
 https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="CNN.png" group-title="美国", CNN INTERNATIONAL
@@ -368,7 +368,7 @@ https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="ABC NEWS.png" group-title="美国", ABC News Live 美国广播新闻Live
 https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="CBS.png" group-title="美国", CBS NEWS 哥伦比亚广播新闻
-http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="CBS.png" group-title="美国", CBS NEWS Explore 哥伦比亚广播新闻 探索频道
 https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="FOX.png" group-title="美国", FOX新闻
